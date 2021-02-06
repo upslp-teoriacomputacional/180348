@@ -1,0 +1,32 @@
+C:\Users\adriana\Desktop\programas visual studio code\C#\prueba1\bin\Debug\net5.0\prueba1.exe
+C:\Users\adriana\Desktop\programas visual studio code\C#\prueba1\bin\Debug\net5.0\prueba1.deps.json
+C:\Users\adriana\Desktop\programas visual studio code\C#\prueba1\bin\Debug\net5.0\prueba1.runtimeconfig.json
+C:\Users\adriana\Desktop\programas visual studio code\C#\prueba1\bin\Debug\net5.0\prueba1.runtimeconfig.dev.json
+C:\Users\adriana\Desktop\programas visual studio code\C#\prueba1\bin\Debug\net5.0\prueba1.dll
+C:\Users\adriana\Desktop\programas visual studio code\C#\prueba1\bin\Debug\net5.0\ref\prueba1.dll
+C:\Users\adriana\Desktop\programas visual studio code\C#\prueba1\bin\Debug\net5.0\prueba1.pdb
+C:\Users\adriana\Desktop\programas visual studio code\C#\prueba1\obj\Debug\net5.0\prueba1.csprojAssemblyReference.cache
+C:\Users\adriana\Desktop\programas visual studio code\C#\prueba1\obj\Debug\net5.0\prueba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriana\Desktop\programas visual studio code\C#\prueba1\obj\Debug\net5.0\prueba1.AssemblyInfoInputs.cache
+C:\Users\adriana\Desktop\programas visual studio code\C#\prueba1\obj\Debug\net5.0\prueba1.AssemblyInfo.cs
+C:\Users\adriana\Desktop\programas visual studio code\C#\prueba1\obj\Debug\net5.0\prueba1.csproj.CoreCompileInputs.cache
+C:\Users\adriana\Desktop\programas visual studio code\C#\prueba1\obj\Debug\net5.0\prueba1.dll
+C:\Users\adriana\Desktop\programas visual studio code\C#\prueba1\obj\Debug\net5.0\ref\prueba1.dll
+C:\Users\adriana\Desktop\programas visual studio code\C#\prueba1\obj\Debug\net5.0\prueba1.pdb
+C:\Users\adriana\Desktop\programas visual studio code\C#\prueba1\obj\Debug\net5.0\prueba1.genruntimeconfig.cache
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Conjuntos\bin\Debug\net5.0\prueba1.exe
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Conjuntos\bin\Debug\net5.0\prueba1.deps.json
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Conjuntos\bin\Debug\net5.0\prueba1.runtimeconfig.json
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Conjuntos\bin\Debug\net5.0\prueba1.runtimeconfig.dev.json
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Conjuntos\bin\Debug\net5.0\prueba1.dll
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Conjuntos\bin\Debug\net5.0\ref\prueba1.dll
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Conjuntos\bin\Debug\net5.0\prueba1.pdb
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Conjuntos\obj\Debug\net5.0\prueba1.csprojAssemblyReference.cache
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Conjuntos\obj\Debug\net5.0\prueba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Conjuntos\obj\Debug\net5.0\prueba1.AssemblyInfoInputs.cache
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Conjuntos\obj\Debug\net5.0\prueba1.AssemblyInfo.cs
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Conjuntos\obj\Debug\net5.0\prueba1.csproj.CoreCompileInputs.cache
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Conjuntos\obj\Debug\net5.0\prueba1.dll
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Conjuntos\obj\Debug\net5.0\ref\prueba1.dll
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Conjuntos\obj\Debug\net5.0\prueba1.pdb
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Conjuntos\obj\Debug\net5.0\prueba1.genruntimeconfig.cache
