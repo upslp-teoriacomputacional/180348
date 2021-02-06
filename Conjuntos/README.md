@@ -1,12 +1,27 @@
-## programa realizado en un proyecto de C# en el editor de codigo mediante VSCode
+# Programa realizado en un proyecto de C# en el editor de codigo mediante VSCode
 
-  <h1>¿Que se hizo para llegar a la solucion?</h1>
-  
+  <li> Nombre: Gamaliel Israel Aguirre Bravo </li>
+  <li> Matricula: 180348 </li>
+  <li> universidad politecnica de San luis Potosi </li>
+  <li> profesor: Juan Carlos Gonzales Ibarra </li>
+  <li> Descripcion: un programa donde se utilizan los conjuntos y se hizo uso de la clase HashSet<>
+      ademas se realizaron operaciones con conjuntos.</li>
+    <br>
+  <h3>¿Que se hizo para llegar a la solucion?</h3>
 
- 
+  <p> Fue necesario primeramente descargar un editor de texto el cual fuera compatible<br>
+  con el lenguaje C#, se utilizo el editor Visual Studio Code el cual fue descargado<br> 
+  desde el link https://code.visualstudio.com/download .<br>
+  </p>
+  <p> Fue necesario instalar las extenciones necesarias para el funcionamiento<br>
+  Extensiones C# y C# Extensions. Aparte fue necesario descargar .net 5.0 Framework.
+  </p><br>
+  <p> La unica manera que encontre de trabajar fue creado un proyecto
+  mediante el codigo ***dotnet new console***
+  </p> 
 
 
-## Source Code
+## Codigo fuente
 
 ```C#
 using System;
@@ -16,6 +31,7 @@ namespace prueba1
 {
     class Program
     {
+        
         // variables globales
         // definimos 3 conjuntos
         /*
@@ -164,20 +180,4 @@ namespace prueba1
 
 
 ```
-## Help - ?
-
-In this program, we take two different sets and perform different set operations on them. This can equivalently done by using set methods.
-<small> <a href="" target="\_blank">@</a> for this feature!</small>
-
-
-Visit <a href="https://github.com/upslp-teoriacomputacional/180864/" target="\_blank"> (Programming set in Python).
-
-<small>@jc-gi<a href="https://github.com/jc-gi" target="\_blank"></a> for the language support! </small>
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+#
