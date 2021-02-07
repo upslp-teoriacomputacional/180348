@@ -17,10 +17,13 @@
   Extensiones C# y C# Extensions. Aparte fue necesario descargar .net 5.0 Framework.
   </p><br>
   <p> La unica manera que encontre de trabajar fue creado un proyecto
-  mediante el codigo ***dotnet new console***
+  mediante el codigo: 
   </p> 
-
-
+    <h3>dotnet new console</h3>
+    <p> y para ejecutar mediante el codigo </p>
+    <h3>dotnet run</p>
+    <p>Se utilizo la libreria HashSet<> la cual es de System.Collection.Generics </h1>
+    <>
 ## Codigo fuente
 
 ```C#
