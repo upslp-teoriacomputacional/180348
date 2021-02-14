@@ -1,0 +1,16 @@
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\graphs\obj\Debug\net5.0\graphs.csprojAssemblyReference.cache
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\graphs\obj\Debug\net5.0\graphs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\graphs\obj\Debug\net5.0\graphs.AssemblyInfoInputs.cache
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\graphs\obj\Debug\net5.0\graphs.AssemblyInfo.cs
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\graphs\obj\Debug\net5.0\graphs.csproj.CoreCompileInputs.cache
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\graphs\bin\Debug\net5.0\graphs.exe
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\graphs\bin\Debug\net5.0\graphs.deps.json
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\graphs\bin\Debug\net5.0\graphs.runtimeconfig.json
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\graphs\bin\Debug\net5.0\graphs.runtimeconfig.dev.json
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\graphs\bin\Debug\net5.0\graphs.dll
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\graphs\bin\Debug\net5.0\ref\graphs.dll
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\graphs\bin\Debug\net5.0\graphs.pdb
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\graphs\obj\Debug\net5.0\graphs.dll
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\graphs\obj\Debug\net5.0\ref\graphs.dll
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\graphs\obj\Debug\net5.0\graphs.pdb
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\graphs\obj\Debug\net5.0\graphs.genruntimeconfig.cache

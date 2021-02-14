@@ -91,6 +91,7 @@ namespace prueba1
             agregar.Add(987);
             Console.Write("El conjunto B despues de agregar un valor ");
             imprimir(agregar);
+            
         }
         //operaciones con set
         //Union
