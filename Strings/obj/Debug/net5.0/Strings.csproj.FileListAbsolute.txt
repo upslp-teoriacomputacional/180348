@@ -1,0 +1,16 @@
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Strings\bin\Debug\net5.0\Strings.exe
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Strings\bin\Debug\net5.0\Strings.deps.json
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Strings\bin\Debug\net5.0\Strings.runtimeconfig.json
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Strings\bin\Debug\net5.0\Strings.runtimeconfig.dev.json
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Strings\bin\Debug\net5.0\Strings.dll
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Strings\bin\Debug\net5.0\ref\Strings.dll
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Strings\bin\Debug\net5.0\Strings.pdb
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Strings\obj\Debug\net5.0\Strings.csprojAssemblyReference.cache
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Strings\obj\Debug\net5.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Strings\obj\Debug\net5.0\Strings.AssemblyInfoInputs.cache
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Strings\obj\Debug\net5.0\Strings.AssemblyInfo.cs
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Strings\obj\Debug\net5.0\Strings.csproj.CoreCompileInputs.cache
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Strings\obj\Debug\net5.0\Strings.dll
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Strings\obj\Debug\net5.0\ref\Strings.dll
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Strings\obj\Debug\net5.0\Strings.pdb
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\Strings\obj\Debug\net5.0\Strings.genruntimeconfig.cache
