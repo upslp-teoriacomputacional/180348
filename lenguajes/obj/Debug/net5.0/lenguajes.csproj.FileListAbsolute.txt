@@ -1,0 +1,16 @@
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\lenguajes\bin\Debug\net5.0\lenguajes.exe
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\lenguajes\bin\Debug\net5.0\lenguajes.deps.json
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\lenguajes\bin\Debug\net5.0\lenguajes.runtimeconfig.json
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\lenguajes\bin\Debug\net5.0\lenguajes.runtimeconfig.dev.json
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\lenguajes\bin\Debug\net5.0\lenguajes.dll
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\lenguajes\bin\Debug\net5.0\ref\lenguajes.dll
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\lenguajes\bin\Debug\net5.0\lenguajes.pdb
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\lenguajes\obj\Debug\net5.0\lenguajes.csprojAssemblyReference.cache
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\lenguajes\obj\Debug\net5.0\lenguajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\lenguajes\obj\Debug\net5.0\lenguajes.AssemblyInfoInputs.cache
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\lenguajes\obj\Debug\net5.0\lenguajes.AssemblyInfo.cs
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\lenguajes\obj\Debug\net5.0\lenguajes.csproj.CoreCompileInputs.cache
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\lenguajes\obj\Debug\net5.0\lenguajes.dll
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\lenguajes\obj\Debug\net5.0\ref\lenguajes.dll
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\lenguajes\obj\Debug\net5.0\lenguajes.pdb
+C:\Users\adriana\Desktop\6to semestre\Teoria computacional\180348\lenguajes\obj\Debug\net5.0\lenguajes.genruntimeconfig.cache
